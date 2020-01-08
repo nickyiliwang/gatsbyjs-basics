@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/header.js"],"names":[],"mappings":"6FAAA,gCAEe,4BAAM","file":"component---src-pages-header-js-2dea5954e145c7486ef1.js","sourcesContent":["import React from \"react\"\r\n\r\nexport default () => <h1>How do I delete js files without errors lmao</h1>\r\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"7Csz":function(e,n,t){"use strict";t.r(n);var o=t("q1tI"),r=t.n(o);n.default=function(){return r.a.createElement("h1",null,"How do I delete js files without errors lmao")}}}]);
+//# sourceMappingURL=component---src-pages-header-js-2dea5954e145c7486ef1.js.map
