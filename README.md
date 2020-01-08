@@ -1,3 +1,17 @@
+## Learning Gatsby basics from their tutorials
+
+Notes
+#1. CSS MODULES, file.module.css 
+#2. Linking to different pages like react router
+#3. Syntax difference to traditional React apps
+#4. Not too different from React
+
+
+
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">

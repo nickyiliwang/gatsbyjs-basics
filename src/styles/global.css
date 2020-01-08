@@ -1,0 +1,18 @@
+html {
+  background-color: lavenderblush;
+}
+
+.wrapper {
+  max-width: 1400px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact {
+  color: red;
+  font-size: 22px;
+}
+
+a {
+  margin: 20px;
+}

@@ -1,8 +1,10 @@
 import React from "react"
 import Header from "../components/header"
+import { Link } from "gatsby"
 
 export default () => (
-  <div style={{ color: "blue", fontSize: `72px` }}>
+  <div className='wrapper'>
+    <Link to="/">Home</Link>
     <Header headerText="About Gatsby" />
     <Header headerText="IT's aight" />
     <h2>HEHEHEH</h2>
