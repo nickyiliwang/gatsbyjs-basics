@@ -5,5 +5,13 @@
  */
 
 module.exports = {
-  pathPrefix: "/gatsbyjs-basics"
+  plugins: [
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
+  ],
+  pathPrefix: "/gatsbyjs-basics",
 }
